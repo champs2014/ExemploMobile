@@ -4,5 +4,5 @@
 		<description> Aplicativo desenvolvido para exemplificar o uso do PhoneGap </description> 
 		<author email="gmagalhaesaqua@gmail.com" href="http://phonegap.com"> Criador do projeto </author> 
 		<access origin="*" /> 
-		<preference name="phonegap-version" value="3.5.0" /> 
+		<preference name="phonegap-version" value="3.1.0" /> 
 	</widget>
