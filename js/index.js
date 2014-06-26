@@ -9,7 +9,7 @@ function onDeviceReady() {
 		}
 		else
 		{
-			alert("Boas Vindas "+nome+"!!");
+			alert("Boas Vindas do Champs: "+nome+"!!!");
 		}
 	});
 }
